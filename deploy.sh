@@ -3,4 +3,6 @@ deeplo in the DCO
 ggfggfgf
 AAAAAAAA
 My nane is Tongambo
-Deply to satgingO
+Deply to satging are
+echo good
+Teated and accepted
