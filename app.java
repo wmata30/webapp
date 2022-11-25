@@ -3,3 +3,5 @@
 #make use of variables and dynamic variable
 # Author: SAMUEL TONGAMBO
 kkkkkkkkkkkkkk
+
+FIXING A BUGG AS A COLABORATOT
