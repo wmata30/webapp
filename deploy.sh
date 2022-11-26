@@ -6,3 +6,4 @@ My nane is Tongambo
 Deply to satging are
 echo good
 Teated and accepted
+experiency stash
