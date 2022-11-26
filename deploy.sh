@@ -7,3 +7,8 @@ Deply to satging are
 echo good
 Teated and accepted
 experiency stash
+deploy.sh
+
+Copy the content and paste it in the Github account SSH.
+
+    known_hosts    hosts validated credentia
