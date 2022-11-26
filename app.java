@@ -3,3 +3,7 @@
 #make use of variables and dynamic variable
 # Author: SAMUEL TONGAMBO
 kkkkkkkkkkkkkk
+
+FIXING A BUGG AS A COLABORATOT
+Print ("car Services automated")
+Print ( "Hello Your car need service")
