@@ -9,6 +9,7 @@ Deployment 11 masteri
 
 My last line
 
+<<<<<<< HEAD
 
 1. fisrt revert
 2. my second commit
@@ -16,3 +17,5 @@ My last line
 
 
 
+=======
+>>>>>>> parent of acd6cbf (My first revert)
